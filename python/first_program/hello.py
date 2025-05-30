@@ -1,0 +1,6 @@
+print("khalid khan")
+print("Hello, World!")
+print("This is my first program in Python.")
+print("I am learning Python programming.")
+print("hello python " ,"it is very easy to learn")
+print(23+45)
